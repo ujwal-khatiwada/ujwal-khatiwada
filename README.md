@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ujwalktd.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning js.
+- 📫 How to reach me: Contact on ujwalkhatiwada501@gmail.com 
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Coding is actually relaxing until writting HTML and CSS stuffs..😆 
